@@ -13,4 +13,4 @@ To download and run
 
 "cd Game"
 
-"java "
+"java TicTacToe"
