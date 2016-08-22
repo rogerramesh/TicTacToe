@@ -5,3 +5,12 @@ Coordinate TicTacToe
 This Java tic-tac-toe game functions similar to BattleShip. 
 
 It uses an array that functions similarly to a coordinate system to place the X's and O's in different spots on the board just like Battleship
+
+
+To download and run
+
+"git clone https://github.com/rogerramesh/TicTacToe.git"
+
+"cd Game"
+
+"java "
