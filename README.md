@@ -9,8 +9,8 @@ It uses an array that functions similarly to a coordinate system to place the X'
 
 To download and run
 
-"git clone https://github.com/rogerramesh/TicTacToe.git"
+`git clone https://github.com/rogerramesh/TicTacToe.git`
 
-"cd Game"
+`cd Game`
 
-"java TicTacToe"
+`java TicTacToe`
